@@ -1,0 +1,23 @@
+String logintext = "Login";
+String emailtext = "Email";
+String passwordtext = "Password";
+String donthaveaccounttext = "Don’t have an acoount ?   Sign Up";
+String signuptext = "Sign up";
+String nametext = "Name";
+String haveaccountsignin = "Already have an acoount ?   Sign in";
+String appname = "Bolt";
+String hometextfieldhint = "Search Your Product";
+String categoriestext = "Categories";
+String seeall = "See all";
+String featured = "Featured";
+String fontfaimly = "MontserratMedium";
+String fontfaimlyregular = "MontserratRegular";
+String image = "assets/images/first.jpg";
+String detailsfirsttext = "Black turtleneck top";
+String verygood = "Very Good";
+String reviews = "49 Reviews";
+String description = "Description";
+String sizetext = "Select Size";
+String color = "Select Color";
+String descriptiondetails =
+    "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.";
