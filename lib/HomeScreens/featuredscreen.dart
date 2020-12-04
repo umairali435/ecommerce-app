@@ -41,7 +41,7 @@ class FeaturedScreen extends StatelessWidget {
                             onTap: () {
                               Navigator.of(context).push(MaterialPageRoute(
                                   builder: (BuildContext context) =>
-                                      DetailsScreen()));
+                                      DetailsScreen(false)));
                             },
                             child: ShoppingPictures(context)),
                         ShoppingPictures(context),

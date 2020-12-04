@@ -8,6 +8,7 @@ String haveaccountsignin = "Already have an acoount ?   Sign in";
 String appname = "Bolt";
 String hometextfieldhint = "Search Your Product";
 String categoriestext = "Categories";
+String createaddress = "Create Address";
 String seeall = "See all";
 String featured = "Featured";
 String fontfaimly = "MontserratMedium";
@@ -15,9 +16,55 @@ String fontfaimlyregular = "MontserratRegular";
 String image = "assets/images/first.jpg";
 String detailsfirsttext = "Black turtleneck top";
 String verygood = "Very Good";
+String continu = "Continue";
+String name = "Name";
+String usernmae = "Istiak mahmud Remon";
+String cit = "city";
+String address = "Address";
+String postalcode = "Postal Code";
+String payment = "Payment";
+String addresstext = """Shewrapara, Mirpur, Dhaka-1216
+House no: 938
+Road no: 9""";
+String secondaddress = """Chatkhil, Noakhali
+House no: 22
+Road no: 7""";
+String addaddress = "Add Address";
+String code = "0088943";
+String phonenumber = "Phone Number";
+String number = "+880123456789";
+String continuetopayment = "Continue To Payment";
 String reviews = "49 Reviews";
 String description = "Description";
 String sizetext = "Select Size";
 String color = "Select Color";
+String buynow = "BUY NOW";
+String textaddtocart = "ADD TO CART";
+String tshirt = "Men's t- shirt";
+String companyname = "Lotto.LTD";
+String price = "\$34.00";
+String cart = "Cart";
 String descriptiondetails =
     "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.";
+String subtotal = "Subtotal";
+String discount = "Discount";
+String shipping = "Shipping";
+String total = "Total";
+String ten = "\$10.00";
+String onesixty = "\$160.00";
+String five = "\$5%";
+String onesixtytwo = "\$162.00";
+String checkout = "Checkout";
+String addcard = "Add Card";
+String confirmation = "Confirmation";
+String success = """You have successfully 
+completed your payment procedure""";
+String backtohom = "Back to Home";
+String home = "Home";
+String profile = "Profile";
+String mycart = "My Cart";
+String favourite = "Favorite";
+String myorders = "My Orders";
+String language = "Language";
+String settings = "Settings";
+String orders = "My Orders";

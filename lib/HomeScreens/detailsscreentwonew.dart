@@ -1,11 +1,9 @@
 import 'package:blocpractice/HomeScreens/DetailsSreenTwo.dart';
 import 'package:flutter/material.dart';
 
-class DetailsScreen extends StatelessWidget {
-  bool isnewscreen = false;
-  DetailsScreen(this.isnewscreen);
+class DetailsNewScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return SecondDetailsScreen(false);
+    return SecondDetailsScreen(true);
   }
 }

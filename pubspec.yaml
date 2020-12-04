@@ -30,6 +30,7 @@ dependencies:
   cupertino_icons: ^1.0.0
   equatable: ^1.2.5
   flutter_bloc: ^6.1.1
+  carousel_slider: ^2.3.1
   http: ^0.12.2
   flutter_svg: ^0.19.1
 dev_dependencies:
@@ -61,8 +62,12 @@ flutter:
     - assets/images/first.jpg
     - assets/images/men.svg
     - assets/images/kids.svg
+    - assets/images/creditcard.svg
     - assets/MaskGroup.svg
+    - assets/images/confirmation.svg
     - assets/Mask Group 11.svg
+    - assets/images/t.jpg
+
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
